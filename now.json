@@ -1,0 +1,16 @@
+{
+  "name": "Download RAM",
+  "alias": [
+    "ram",
+    "downloadRAM",
+    "downloadMoreRAM",
+    "RAMDownload",
+    "RAMdownload2",
+    "CloudRam"
+  ],
+  "version": 2,
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }],
+  "github": {
+    "silent": true
+  }
+}
